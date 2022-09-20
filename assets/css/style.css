@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;    
+}
+.navbar img{
+    width: 8rem;
+}
+h3{
+    color: white;
+    
+}
+.row{
+    margin: px;
+}
+footer img{
+    width: 6rem;
+}
